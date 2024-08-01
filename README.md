@@ -7,7 +7,7 @@
 
 ![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanVNBezerra&show_icons=true&theme=onedark)
 
-### Tecnologias que uso no meu dia dia 
+### Tecnologias que uso no meu dia dia: 
 
 <div style="display: inline_black"><br/>
  <img align="center"   alt="C"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
