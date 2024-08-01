@@ -13,4 +13,10 @@
  <img align="center"   alt="C"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
 
+### Linguagem(s) que estou apredendo: 
+
+<div style="display: inline_black"><br/>
+ <img align="center"   alt="GO"  src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</div>
+
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
